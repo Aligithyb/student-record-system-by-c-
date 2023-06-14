@@ -1,0 +1,17 @@
+# ninja log v5
+1	160	7061284822067703	build.ninja	3563df9b319393e3
+8	585	7049172627281444	CMakeFiles/untitled.dir/student.cpp.obj	9a403d9f7cbcc6d
+600	739	7043898426949699	untitled.exe	5845595a96a59a8f
+15	667	7049172628092253	CMakeFiles/untitled.dir/course.cpp.obj	2a30f6f46b05d4c9
+32	890	7044925397119598	CMakeFiles/untitled.dir/semester.cpp.obj	24112b9eddcfd14a
+24	460	7049225766237770	CMakeFiles/untitled.dir/statestudent.cpp.obj	c2c649bdafc4f880
+3	175	7045455115604596	CMakeFiles/untitled.dir/project.cpp.obj	41691e61d2110542
+15	307	7049225764711392	CMakeFiles/untitled.dir/honorstudent.cpp.obj	e30bc677b66042dc
+2	269	7059579391079117	CMakeFiles/untitled.dir/grade.cpp.obj	22846242b3557f00
+8	427	7049225765894142	CMakeFiles/untitled.dir/internationalstudent.cpp.obj	c72bd61952f20560
+176	702	7045455121310493	CMakeFiles/untitled.dir/quarter.cpp.obj	bce9e0e2b4d8c909
+12	447	7059579171750379	CMakeFiles/untitled.dir/coursemark.cpp.obj	5891ca473dbcb13b
+16	374	7059579171018061	CMakeFiles/untitled.dir/gradedweighted.cpp.obj	765de24e55d257af
+8	417	7059579171444154	CMakeFiles/untitled.dir/main.cpp.obj	352b28558889f360
+4	394	7059598180956385	CMakeFiles/untitled.dir/main_1.cpp.obj	a1b182408f35683d
+2	273	7061284864994558	CMakeFiles/untitled.dir/.idea/kj.cpp.obj	ba63a35d68f8db22

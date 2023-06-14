@@ -1,0 +1,10 @@
+# ninja log v5
+4	445	7061316018744423	CMakeFiles/untitled5.dir/student.cpp.obj	2d153cdafc647bb
+4	305	7061302553381546	CMakeFiles/untitled5.dir/grade.cpp.obj	79bb4d2013f8c255
+9	485	7061316019148438	CMakeFiles/untitled5.dir/main.cpp.obj	64d0f038da0c567a
+307	382	7061286155204678	untitled5.exe	4dbd9b1c82b21f7e
+19	617	7061316020442864	CMakeFiles/untitled5.dir/semster.cpp.obj	5b57611ed64754a
+14	546	7061316019742765	CMakeFiles/untitled5.dir/course.cpp.obj	a0df2abf093a53c2
+16	469	7062205998521427	CMakeFiles/untitled5.dir/pearson.cpp.obj	c6cb7a514f0a5609
+8	807	7062206001902948	CMakeFiles/untitled5.dir/grade.cpp.obj	79bb4d2013f8c255
+21	936	7062206003174584	CMakeFiles/untitled5.dir/course.cpp.obj	a0df2abf093a53c2
